@@ -1,3 +1,6 @@
+Use this to install the packages
+pip install -r requirements.txt
+
 Hi this app will take an screenshot
  send it to your telegram with just pressing one key
 actually two keys at once "shift"+"`" 
