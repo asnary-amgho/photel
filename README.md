@@ -1,4 +1,4 @@
-Use this to install the packages
+Use this to install the packages:
 pip install -r requirements.txt
 
 Hi this app will take an screenshot
