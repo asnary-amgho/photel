@@ -2,3 +2,4 @@ telebot
 pyTelegramBotAPI
 keyboard
 pillow
+customtkinter
