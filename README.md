@@ -1,7 +1,7 @@
-# Photel - Secure Screenshot Uploader for Telegram
+# scrtel - Secure Screenshot Uploader for Telegram
 
 ## Overview
-Photel is a secure, cross-platform application that automatically captures screenshots and uploads them to Telegram with robust encryption and reliability features. Designed for both technical and non-technical users.
+scrtel is a secure, cross-platform application that automatically captures screenshots and uploads them to Telegram with robust encryption and reliability features. Designed for both technical and non-technical users.
 
 ## Key Features 🔑
 - **Military-Grade Encryption 🔒**
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ### Launch Application
 ```bash
-python photel.py
+python scrtel.py
 ```
 
 ### Initial Configuration
